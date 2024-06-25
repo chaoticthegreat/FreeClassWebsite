@@ -43,11 +43,11 @@
 
 <section
 	id="faq"
-	class="container py-24 sm:py-32"
+	class="container py-24 sm:py-32 bg-black"
 >
-	<h2 class="text-3xl md:text-4xl font-bold mb-4">
+	<h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-300">
 		Frequently Asked{" "}
-		<span class="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
+		<span class="bg-gradient-to-b from-gray-400 to-white text-transparent bg-clip-text">
           Questions
         </span>
 	</h2>
@@ -59,21 +59,21 @@
 			<Accordion.Item
 				value={item.value}
 			>
-				<Accordion.Trigger class="text-left">
+				<Accordion.Trigger class="text-left text-gray-200">
 					{item.question}
 				</Accordion.Trigger>
 
-				<Accordion.Content>{item.answer}</Accordion.Content>
+				<Accordion.Content class="text-gray-200">{item.answer}</Accordion.Content>
 			</Accordion.Item>
 		{/each}
 	</Accordion.Root>
 
-	<h3 class="font-medium mt-4">
+	<h3 class="font-medium mt-4 text-gray-400">
 		Still have questions?{" "}
 		<a
 			rel="noreferrer noopener"
 			href="#"
-			class="text-primary transition-all border-primary hover:border-b-2"
+			class="text-gray-200 transition-all border-primary hover:border-b-2"
 		>
 			Contact us
 		</a>
