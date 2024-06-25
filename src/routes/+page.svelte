@@ -13,11 +13,12 @@ import FAQ from './FAQ.svelte';
 	<meta name="description" content="Free Python Class For Kids" />
 </svelte:head>
 
-<div class="bg-white">
+<div class="bg-black relative isolate">
 	<Navbar/>
 	<MainScreen/>
+	<Features/>
+	<Testimonial/>
+	<Newsletter/>
+	<FAQ/>
 </div>
-<Features/>
-<Testimonial/>
-<Newsletter/>
-<FAQ/>
+

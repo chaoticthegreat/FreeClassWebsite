@@ -1,8 +1,12 @@
-<div class="bg-black py-24 sm:py-32">
+<a id="about"></a>
+<div class="bg-black py-24 sm:py-32 relative isolate">
+	<div class="absolute inset-x-0 top-0 -z-10 transform-gpu overflow-hidden blur-3xl" aria-hidden="true">
+		<div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+	</div>
 	<div class="mx-auto max-w-7xl px-6 lg:px-8">
 		<div class="mx-auto max-w-2xl lg:text-center">
 			<h2 class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2>
-			<a id="features"><p class="mt-2 text-3xl font-bold tracking-tight text-gray-200 sm:text-4xl">Everything you need to deploy your app</p></a>
+			<p class="mt-2 text-3xl font-bold tracking-tight text-gray-200 sm:text-4xl">Everything you need to deploy your app</p>
 			<p class="mt-6 text-lg leading-8 text-gray-300">Quis tellus eget adipiscing convallis sit sit eget aliquet quis. Suspendisse eget egestas a elementum pulvinar et feugiat blandit at. In mi viverra elit nunc.</p>
 		</div>
 		<div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
@@ -54,4 +58,11 @@
 			</dl>
 		</div>
 	</div>
+	<div class="absolute inset-x-0 top-28 -z-10 transform-gpu overflow-hidden blur-3xl " aria-hidden="true">
+		<div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(8% 95%, 10% 81%, 16% 88%, 27% 94%, 29% 86%, 14% 68%, 4% 58%, 93% 95%, 76% 79%, 44% 80%, 32% 76%, 50% 53%, 21% 35%, 91% 39%, 91% 75%, 21% 50%, 27% 18%, 15% 6%, 60% 8%, 86% 10%, 17% 22%);"></div>
+	</div>
+	<div class="absolute inset-x-0 top-28 -left-px -z-10 transform-gpu overflow-hidden blur-3xl " aria-hidden="true">
+		<div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-25 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(39% 9%, 49% 15%, 59% 23%, 68% 30%, 75% 36%, 81% 42%, 87% 45%, 94% 37%, 93% 29%, 74% 15%, 63% 7%, 73% 24%);"></div>
+	</div>
+
 </div>
