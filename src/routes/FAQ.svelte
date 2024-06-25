@@ -45,12 +45,12 @@
 	id="faq"
 	class="container py-24 sm:py-32 bg-black"
 >
-	<h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-300">
+	<a id="FAQ"><h2 class="text-3xl md:text-4xl font-bold mb-4 text-gray-300">
 		Frequently Asked{" "}
 		<span class="bg-gradient-to-b from-gray-400 to-white text-transparent bg-clip-text">
           Questions
         </span>
-	</h2>
+	</h2></a>
 
 	<Accordion.Root
 		class="w-full AccordionRoot"
