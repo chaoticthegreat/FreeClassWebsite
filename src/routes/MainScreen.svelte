@@ -8,15 +8,15 @@
 	<div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
 		<div class="hidden sm:mb-8 sm:flex sm:justify-center">
 			<div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-100 ring-1 ring-gray-400/10 hover:ring-gray-400/20">
-				Classes are coming up soon <a href="https://docs.google.com/forms/d/1Xer2DXSdbyVZ8P_NL_rI6FaLQNJ6H3Y5Nd8K6ilR5VE/edit" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span>Sign Up! <span aria-hidden="true">&rarr;</span></a>
+				Classes are coming up soon <a href="https://docs.google.com/forms/d/e/1FAIpQLScgBolDf48ffW0uwE6mzXT_HdMENL3Z6o7z4KtG9YgZ2qODZw/viewform?usp=sf_link" class="font-semibold text-indigo-600"><span class="absolute inset-0" aria-hidden="true"></span>Sign Up! <span aria-hidden="true">&rarr;</span></a>
 			</div>
 		</div>
 		<div class="text-center">
-			<h1 class="text-4xl font-bold tracking-tight text-gray-200 sm:text-6xl">Data to enrich your online business</h1>
-			<p class="mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+			<h1 class="text-4xl font-bold tracking-tight text-gray-200 sm:text-6xl">Free Classes For Kids</h1>
+			<p class="mt-6 text-lg leading-8 text-gray-300">Sign your kid up for a 2 day free python class. This class is for all levels including beginners to advanced and will cover a wide range of topics. </p>
 			<div class="mt-10 flex items-center justify-center gap-x-6">
-				<a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get started</a>
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-200">Learn more <span aria-hidden="true">→</span></a>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLScgBolDf48ffW0uwE6mzXT_HdMENL3Z6o7z4KtG9YgZ2qODZw/viewform?usp=sf_link" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get started</a>
+				<a href="#about" class="text-sm font-semibold leading-6 text-gray-200">Learn more <span aria-hidden="true">→</span></a>
 			</div>
 		</div>
 	</div>

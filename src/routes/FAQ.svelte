@@ -9,34 +9,24 @@
 
 	const FAQList: FAQProps[] = [
 		{
-			question: "Is this template free?",
-			answer: "Yes. It is a free ChadcnUI template.",
+			question: "Is this class free?",
+			answer: "Yes. It is free for all students 8-13",
 			value: "item-1",
 		},
 		{
-			question: "Lorem ipsum dolor sit amet consectetur adipisicing elit?",
-			answer:
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+			question: "What age group is this class for?",
+			answer: "This class is for ages 8-13",
 			value: "item-2",
 		},
 		{
-			question:
-				"Lorem ipsum dolor sit amet  Consectetur natus dolores minus quibusdam?",
-			answer:
-				"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore qui nostrum reiciendis veritatis necessitatibus maxime quis ipsa vitae cumque quo?",
+			question: "What time do the classes take place?",
+			answer: "The time varies year from year and will be based on whenever most of our customers are free",
 			value: "item-3",
 		},
 		{
-			question: "Lorem ipsum dolor sit amet, consectetur adipisicing elit?",
-			answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+			question: "Where are the classes held?",
+			answer: "This information will be sent out once you are signed up. This is the ensure the privacy of our host.",
 			value: "item-4",
-		},
-		{
-			question:
-				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus?",
-			answer:
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
-			value: "item-5",
 		},
 	];
 </script>
@@ -79,7 +69,7 @@
 				href="#"
 				class="text-gray-200 transition-all border-primary hover:border-b-2"
 			>
-				Contact us
+				Contact us @ freepythonforkids@gmail.com
 			</a>
 		</h3>
 </div>

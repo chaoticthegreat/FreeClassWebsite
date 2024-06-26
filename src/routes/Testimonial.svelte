@@ -9,15 +9,15 @@
 	<div class="mx-auto max-w-2xl lg:max-w-4xl">
 		<figure class="mt-10">
 			<blockquote class="text-center text-xl font-semibold leading-8 text-gray-200 sm:text-2xl sm:leading-9">
-				<p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”</p>
+				<p>“I loved this class and it was one of the highlights of my summer! Definitely recommend for newcomers into programming.”</p>
 			</blockquote>
 			<figcaption class="mt-10">
 				<div class="mt-4 flex items-center justify-center space-x-3 text-base">
-					<div class="font-semibold text-gray-200">Judith Black</div>
+					<div class="font-semibold text-gray-200">Josh</div>
 					<svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" class="fill-gray-200">
 						<circle cx="1" cy="1" r="1" />
 					</svg>
-					<div class="text-gray-300">CEO of Workcation</div>
+					<div class="text-gray-300">Past Customer</div>
 				</div>
 			</figcaption>
 		</figure>
