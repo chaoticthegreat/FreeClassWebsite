@@ -9,7 +9,7 @@ import FAQ from './FAQ.svelte';
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Free Python For Kids</title>
 	<meta name="description" content="Free Python Class For Kids" />
 </svelte:head>
 
